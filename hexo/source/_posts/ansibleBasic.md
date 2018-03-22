@@ -1,9 +1,9 @@
 ---
-layout: maintetechnology
-title: ansible 基础
-date: 2018-03-21 21:58:55
+layout: optskills
+title: ansible基础篇
+categories: optSkills
+date: 2018-03-22 11:30:08
 tags:
-categories: mainteTechnology
 ---
 
 ## 一、简要
